@@ -24,4 +24,4 @@ Time: O(n), one loop and two constant-time lookups per element.
 Output space: O(n). Auxiliary space excluding the result: O(1).
 
 ## Progress
-User correctly completed both indexing warm-ups and the solution after a guided lesson. Local checks cover the two official examples, a singleton, the lesson example, and an identity permutation. LeetCode acceptance has not yet been confirmed.
+User correctly completed both indexing warm-ups and the solution after a guided lesson. Local checks cover the two official examples, a singleton, the lesson example, and an identity permutation. LeetCode Accepted, reported by the user on 2026-10-20. Submission: https://leetcode.com/problems/build-array-from-permutation/submissions/2176978429/
