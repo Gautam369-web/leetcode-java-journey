@@ -16,6 +16,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 2 | 2026-10-20 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Read/write indexes, retained prefix, return count | Accepted (reported by user); solved with guidance |
 | 3 | 2026-10-21 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Sorted groups, read/write indexes | Accepted (reported by user); solved with guidance |
 | 3 | 2026-10-21 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Opposite-end indexes, temporary and XOR swaps | Both methods accepted (reported by user); solved with guidance |
+| 3 | 2026-10-21 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two indexes, character checks, loop progress | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -40,3 +41,5 @@ See [Remove Element notes](day-002/0027-remove-element/NOTES.md) and [solution](
 See [Day 3 duplicate removal notes](day-003/0026-remove-duplicates-from-sorted-array/NOTES.md) and [solution](day-003/0026-remove-duplicates-from-sorted-array/Solution.java).
 
 See [Reverse String notes](day-003/0344-reverse-string/NOTES.md), [temporary-variable solution](day-003/0344-reverse-string/Solution.java), and [XOR solution](day-003/0344-reverse-string/SolutionXor.java).
+
+See [Valid Palindrome notes](day-003/0125-valid-palindrome/NOTES.md) and [solution](day-003/0125-valid-palindrome/Solution.java).
