@@ -25,4 +25,4 @@ Output space: O(n), for 2*n values. Auxiliary space excluding the output: O(1).
 The input array is preserved.
 
 ## Progress
-User completed the correct solution after a guided indexing lesson and template. Corrected confusion between original length n and output length 2*n. Passed five local cases, including one element, repeated values, and the maximum input length. LeetCode acceptance has not yet been confirmed.
+User completed the correct solution after a guided indexing lesson and template. Corrected confusion between original length n and output length 2*n. Passed five local cases, including one element, repeated values, and the maximum input length. LeetCode Accepted, reported by the user on 2026-10-20.
