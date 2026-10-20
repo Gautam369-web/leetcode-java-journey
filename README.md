@@ -11,6 +11,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 1 | 2026-10-19 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Digit counting, nested loops, separate counters | Accepted (reported by user); solved with guidance |
 | 2 | 2026-10-20 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Array copying, index offsets | Accepted (reported by user); solved with guidance |
 | 2 | 2026-10-20 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Nested array indexing | Accepted (reported by user); solved with guidance |
+| 2 | 2026-10-20 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Current run, reset, maximum | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -25,3 +26,5 @@ See [digit counting notes](day-001/1295-find-numbers-with-even-number-of-digits/
 See [Day 2 notes](day-002/1929-concatenation-of-array/NOTES.md) and [solution](day-002/1929-concatenation-of-array/Solution.java).
 
 See [permutation notes](day-002/1920-build-array-from-permutation/NOTES.md) and [solution](day-002/1920-build-array-from-permutation/Solution.java).
+
+See [consecutive ones notes](day-002/0485-max-consecutive-ones/NOTES.md) and [solution](day-002/0485-max-consecutive-ones/Solution.java).
