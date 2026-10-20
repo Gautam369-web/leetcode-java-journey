@@ -14,6 +14,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 2 | 2026-10-20 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Current run, reset, maximum | Accepted (reported by user); solved with guidance |
 | 2 | 2026-10-20 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Read/write indexes, in-place updates | Accepted (reported by user); solved with guidance |
 | 2 | 2026-10-20 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Read/write indexes, retained prefix, return count | Accepted (reported by user); solved with guidance |
+| 3 | 2026-10-21 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Sorted groups, read/write indexes | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -34,3 +35,5 @@ See [consecutive ones notes](day-002/0485-max-consecutive-ones/NOTES.md) and [so
 See [Move Zeroes notes](day-002/0283-move-zeroes/NOTES.md) and [solution](day-002/0283-move-zeroes/Solution.java).
 
 See [Remove Element notes](day-002/0027-remove-element/NOTES.md) and [solution](day-002/0027-remove-element/Solution.java).
+
+See [Day 3 duplicate removal notes](day-003/0026-remove-duplicates-from-sorted-array/NOTES.md) and [solution](day-003/0026-remove-duplicates-from-sorted-array/Solution.java).
