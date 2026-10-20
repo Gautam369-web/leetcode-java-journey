@@ -25,4 +25,4 @@ After processing index i, total equals the sum of nums[0] through nums[i]. Stori
 Warm-up completion has not been reported.
 
 ## Progress
-User submitted the corrected solution after a hint and example solution. Local checks cover ordinary input, one element, zeros, negatives, and mixed signs. LeetCode submission acceptance has not been confirmed.
+User submitted the corrected solution after a hint and example solution. Local checks cover ordinary input, one element, zeros, negatives, and mixed signs. LeetCode Accepted, confirmed by the user on 2026-10-20.

@@ -26,4 +26,4 @@ Time: O(N * D), with N input numbers and D the maximum number of digits. Extra s
 The problem specifies positive integers. A general digit counter would need a separate case for zero, which has one digit.
 
 ## Progress
-Correct user solution after guided corrections. Passed local checks for ordinary examples, one-digit inputs, powers of ten, and the maximum allowed value. LeetCode acceptance has not been confirmed.
+Correct user solution after guided corrections. Passed local checks for ordinary examples, one-digit inputs, powers of ten, and the maximum allowed value. LeetCode Accepted, confirmed by the user on 2026-10-20.

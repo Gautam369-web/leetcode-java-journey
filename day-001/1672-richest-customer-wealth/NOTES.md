@@ -21,4 +21,4 @@ Time: O(m * n), where m is the number of customers and n is the number of balanc
 Extra space: O(1). The input array is preserved.
 
 ## Progress
-User submitted the correct solution after guided warm-ups. Passed five local checks; LeetCode acceptance has not yet been reported.
+User submitted the correct solution after guided warm-ups. Passed five local checks; LeetCode Accepted, confirmed by the user on 2026-10-20.

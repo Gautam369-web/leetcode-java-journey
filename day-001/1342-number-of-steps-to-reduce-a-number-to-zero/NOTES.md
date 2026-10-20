@@ -20,4 +20,4 @@ Time: O(log(num + 1)) for positive num; zero takes constant time.
 Extra space: O(1), only the counter and input variable.
 
 ## Progress
-User submitted a correct solution following the concept lesson. Local checks: 0, 1, 6, 8, 14, 123, and 1000000. LeetCode acceptance has not yet been reported.
+User submitted a correct solution following the concept lesson. Local checks: 0, 1, 6, 8, 14, 123, and 1000000. LeetCode Accepted, confirmed by the user on 2026-10-20.

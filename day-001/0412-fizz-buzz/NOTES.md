@@ -21,4 +21,4 @@ For n = 5: ["1", "2", "Fizz", "4", "Buzz"]. For 15, add "FizzBuzz".
 Let d be the number of decimal digits in n. With integer-to-string conversion counted, time and returned text storage are O(n * d), or O(n log n) asymptotically. A simplified analysis that treats integer conversion as constant time gives O(n) time and O(n) output entries. Auxiliary space excluding the returned list and its strings is O(1).
 
 ## Progress
-Correct user solution after guided exercises and a conditional example. Local checks cover n = 1, 3, 5, 15, and 30. LeetCode acceptance has not yet been reported.
+Correct user solution after guided exercises and a conditional example. Local checks cover n = 1, 3, 5, 15, and 30. LeetCode Accepted, confirmed by the user on 2026-10-20.
