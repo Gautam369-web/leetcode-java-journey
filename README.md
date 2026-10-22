@@ -19,6 +19,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 3 | 2026-10-21 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two indexes, character checks, loop progress | Accepted (reported by user); solved with guidance |
 | 3 | 2026-10-21 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Opposite-end indexes, filling from the back | Accepted (reported by user); solved with guidance |
 | 3 | 2026-10-21 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Sorted pair search, endpoint movement, 1-based output | Accepted (reported by user); solved with guidance |
+| 4 | 2026-10-22 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Halving a sorted search range, index vs value | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -49,3 +50,5 @@ See [Valid Palindrome notes](day-003/0125-valid-palindrome/NOTES.md) and [soluti
 See [Sorted Squares notes](day-003/0977-squares-of-a-sorted-array/NOTES.md) and [solution](day-003/0977-squares-of-a-sorted-array/Solution.java).
 
 See [Two Sum II notes](day-003/0167-two-sum-ii-input-array-is-sorted/NOTES.md) and [solution](day-003/0167-two-sum-ii-input-array-is-sorted/Solution.java).
+
+See [Day 4 Binary Search notes](day-004/0704-binary-search/NOTES.md) and [solution](day-004/0704-binary-search/Solution.java).
