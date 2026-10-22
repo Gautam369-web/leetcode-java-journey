@@ -21,6 +21,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 3 | 2026-10-21 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Sorted pair search, endpoint movement, 1-based output | Accepted (reported by user); solved with guidance |
 | 4 | 2026-10-22 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Halving a sorted search range, index vs value | Accepted (reported by user); solved with guidance |
 | 4 | 2026-10-22 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary search, insertion boundary | Accepted (reported by user); solved with guidance |
+| 4 | 2026-10-22 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Binary search for first/last occurrence | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -55,3 +56,5 @@ See [Two Sum II notes](day-003/0167-two-sum-ii-input-array-is-sorted/NOTES.md) a
 See [Day 4 Binary Search notes](day-004/0704-binary-search/NOTES.md) and [solution](day-004/0704-binary-search/Solution.java).
 
 See [Search Insert Position notes](day-004/0035-search-insert-position/NOTES.md) and [solution](day-004/0035-search-insert-position/Solution.java).
+
+See [first/last position notes](day-004/0034-find-first-and-last-position/NOTES.md) and [solution](day-004/0034-find-first-and-last-position/Solution.java).
