@@ -23,3 +23,21 @@ Extra space: O(1).
 
 ## Progress
 Accepted, reported by the user on 2026-10-22 following a concept lesson and a full example solution. Local checks include zero, one, perfect squares, values between squares, and Integer.MAX_VALUE.
+
+## Linear search alternative (Day 5 revision, 2026-10-23)
+SolutionLinear.java tests candidates from 1 upward. Keep increasing candidate while its square is at most x. The loop exits at the first square that is too large, so return candidate-1. For x=9, it stops at candidate=4 and returns 3. For x=0, it skips the loop and returns 0.
+
+Use (long) candidate * candidate to prevent int overflow. Rename the class to Solution when submitting this method separately on LeetCode.
+
+Time: O(sqrt(x)) for positive x; zero takes constant time. Extra space: O(1). Binary search is asymptotically faster.
+
+Linear search accepted, reported by the user on 2026-10-23.
+Submission supplied in context: https://leetcode.com/problems/sqrtx/submissions/2179813940/
+
+## Newton's method (concept only)
+Repeatedly improve an estimate using newEstimate = (estimate + x / estimate) / 2. This is a different mathematical approach, introduced for comparison. An implementation needs a positive starting estimate for positive x, a separate zero case, wide arithmetic, and an integer stopping condition to avoid division by zero, overflow, or oscillation. No Newton implementation or LeetCode acceptance has been confirmed in this lesson.
+
+## Method status
+- Binary search: accepted (user-confirmed 2026-10-22); Solution.java.
+- Linear search: accepted (user-confirmed 2026-10-23); SolutionLinear.java.
+- Newton's method: explanation only; acceptance unconfirmed.

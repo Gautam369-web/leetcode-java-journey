@@ -22,7 +22,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 4 | 2026-10-22 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Halving a sorted search range, index vs value | Accepted (reported by user); solved with guidance |
 | 4 | 2026-10-22 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary search, insertion boundary | Accepted (reported by user); solved with guidance |
 | 4 | 2026-10-22 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Binary search for first/last occurrence | Accepted (reported by user); solved with guidance |
-| 4 | 2026-10-22 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary search over answers, valid candidate, long arithmetic | Accepted (reported by user); solved with guidance |
+| 4 | 2026-10-22 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary search over answers, valid candidate, long arithmetic | Binary and linear search accepted (reported by user); linear revision 2026-10-23 |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -61,3 +61,5 @@ See [Search Insert Position notes](day-004/0035-search-insert-position/NOTES.md)
 See [first/last position notes](day-004/0034-find-first-and-last-position/NOTES.md) and [solution](day-004/0034-find-first-and-last-position/Solution.java).
 
 See [Sqrt(x) notes](day-004/0069-sqrtx/NOTES.md) and [solution](day-004/0069-sqrtx/Solution.java).
+
+See the [Sqrt(x) linear-search solution](day-004/0069-sqrtx/SolutionLinear.java), added during Day 5 revision. Newton's method is introduced in the problem notes; its acceptance is unconfirmed.
