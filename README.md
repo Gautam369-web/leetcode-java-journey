@@ -26,6 +26,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 5 | 2026-10-23 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Exact square check, linear vs binary search | Both methods accepted (reported by user); solved with guidance |
 | 6 | 2026-10-24 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Binary search by slope, converging bounds | Accepted (reported by user); solved with guidance |
 | 6 | 2026-10-24 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Running sums, left/right balance | Accepted (reported by user); solved with guidance |
+| 7 | 2026-10-25 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Prefix sums, range subtraction, constructor and field | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -72,3 +73,5 @@ See [Day 5 Perfect Square notes](day-005/0367-valid-perfect-square/NOTES.md), [b
 See [Day 6 mountain peak notes](day-006/0852-peak-index-in-a-mountain-array/NOTES.md) and [solution](day-006/0852-peak-index-in-a-mountain-array/Solution.java).
 
 See [Pivot Index notes](day-006/0724-find-pivot-index/NOTES.md) and [solution](day-006/0724-find-pivot-index/Solution.java).
+
+See [Day 7 range-sum notes](day-007/0303-range-sum-query-immutable/NOTES.md) and [solution](day-007/0303-range-sum-query-immutable/NumArray.java).
