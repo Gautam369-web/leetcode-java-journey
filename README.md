@@ -30,6 +30,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 7 | 2026-10-25 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Running total, maximum visited, starting value | Accepted (reported by user); solved with guidance |
 | 8 | 2026-10-26 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Fixed-size sliding window, maximum sum, decimal division | Accepted (reported by user); solved with guidance |
 | 8 | 2026-10-26 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Fixed-size sliding window, threshold comparison, counting | Accepted (reported by user); solved with guidance |
+| 9 | 2026-10-27 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Fixed-size sliding window, vowel counting, helper method | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -84,3 +85,5 @@ See [Highest Altitude notes](day-007/1732-find-the-highest-altitude/NOTES.md) an
 See [Day 8 sliding-window notes](day-008/0643-maximum-average-subarray-i/NOTES.md) and [solution](day-008/0643-maximum-average-subarray-i/Solution.java).
 
 See [threshold window notes](day-008/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/NOTES.md) and [solution](day-008/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/Solution.java).
+
+See [Day 9 vowel-window notes](day-009/1456-maximum-number-of-vowels-in-a-substring-of-given-length/NOTES.md) and [solution](day-009/1456-maximum-number-of-vowels-in-a-substring-of-given-length/Solution.java).
