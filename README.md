@@ -32,6 +32,7 @@ Daily Java practice: learn a concept, complete warm-ups, solve a problem, and re
 | 8 | 2026-10-26 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Fixed-size sliding window, threshold comparison, counting | Accepted (reported by user); solved with guidance |
 | 9 | 2026-10-27 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Fixed-size sliding window, vowel counting, helper method | Accepted (reported by user); solved with guidance |
 | 10 | 2026-10-28 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Variable-size sliding window, growing and shrinking, shortest length | Accepted (reported by user); solved with guidance |
+| 11 | 2026-10-29 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | HashMap, complement lookup, number-to-index mapping | Accepted (reported by user); solved with guidance |
 
 See [wealth notes](day-001/1672-richest-customer-wealth/NOTES.md) and [wealth solution](day-001/1672-richest-customer-wealth/Solution.java).
 
@@ -90,3 +91,5 @@ See [threshold window notes](day-008/1343-number-of-sub-arrays-of-size-k-and-ave
 See [Day 9 vowel-window notes](day-009/1456-maximum-number-of-vowels-in-a-substring-of-given-length/NOTES.md) and [solution](day-009/1456-maximum-number-of-vowels-in-a-substring-of-given-length/Solution.java).
 
 See [Day 10 variable-window notes](day-010/0209-minimum-size-subarray-sum/NOTES.md) and [solution](day-010/0209-minimum-size-subarray-sum/Solution.java).
+
+See [Day 11 HashMap notes](day-011/0001-two-sum/NOTES.md) and [solution](day-011/0001-two-sum/Solution.java).
